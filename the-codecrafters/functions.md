@@ -1,0 +1,1 @@
+**Functions** are blocks of code that perform a specific task and can be reused throughout a program. They can take inputs, process them, and return one or more results. Functions keep code organized and reduce repetition.

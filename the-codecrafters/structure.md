@@ -1,0 +1,1 @@
+**Structs** are used to group related data together into one type. They allow you to define a structure with different fields, each having its own type, which makes it easier to represent real-world data in your program.

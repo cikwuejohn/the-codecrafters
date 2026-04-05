@@ -1,0 +1,1 @@
+**Switch** is used when you want to compare one value against many possible options. Instead of writing many if-else statements, switch provides a cleaner and more organized way to handle multiple choices, with a default option if none match.

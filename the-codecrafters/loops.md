@@ -1,0 +1,1 @@
+**Loops** are used to repeat a block of code. the for loop is the only looping structure in golang and can be used in different ways, such as running while a condition is true, or looping through collections like arrays and maps.

@@ -1,0 +1,1 @@
+**Conditions** are used to control what a program does by checking whether something is true or false. If a condition is true, a certain block of code runs, and if it is false, another block can run instead. This helps the program make decisions.

@@ -1,0 +1,1 @@
+**Maps** are used to store data in key-value pairs, where each key is unique and used to access its corresponding value. They allow you to quickly look up, add, update, or delete data, making them useful for organizing and retrieving information efficiently.

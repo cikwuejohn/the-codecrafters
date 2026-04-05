@@ -1,0 +1,1 @@
+A compiler is a program that translates source code into machine code that computers can run. in golang programs need to be compiled before they can execute. what it does is that it checks the code to make sure it’s written correctly and that variables and functions are used properly, then turn the code into optimized machine code that computers can run.
